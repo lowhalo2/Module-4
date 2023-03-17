@@ -1,4 +1,4 @@
--- Changing database structure (When needed)
+drop-- Changing database structure (When needed)
 -- Is done using the following commands/clauses, which are also apart of the DDL statement family
 -- The statements we use to change the database tables are:
 -- ALTER, UPDATE/SET, DELETE/WHERE, ADD(used with an ALTER statment), DROP
